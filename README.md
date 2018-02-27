@@ -1,0 +1,1 @@
+Some ideas for visuals using an animation object in Processing.org
