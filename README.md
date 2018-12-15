@@ -1,5 +1,5 @@
 # New Viz
-======
+
 Some ideas for visuals using an animation object in [Processing.org](https://processing.org)
 
 * Uses classes for rectangles
