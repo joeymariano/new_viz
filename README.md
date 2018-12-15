@@ -1,6 +1,10 @@
-New Viz
+*New Viz*
 ======
-Some ideas for visuals using an animation object in Processing.org
+Some ideas for visuals using an animation object in <a href="https://processing.org'>Processing.org</a>
+
+* Uses Classes for rectangles
+
+* creates animations from images generated with <a href="http://pelulamu.net/ibniz/'>IBNIZ</a>
 
 # Output =>
 
