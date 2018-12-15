@@ -20,6 +20,7 @@ void setup() {
   noCursor();
   noSmooth();
   background(51);
+  frameRate(12);
   muncher = new Animation("muncher_", 33, 2);
   perspective = new Animation("perspective_", 233, 3);
   rectMode(CENTER);
@@ -36,4 +37,5 @@ void draw() {
   makeRect2.update();
   makeRect3.update();
   makeRect4.update();
+  saveFrame("######.png");
 }
